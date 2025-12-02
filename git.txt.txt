@@ -1,1 +1,2 @@
 This is LOQ
+RTX 4050
